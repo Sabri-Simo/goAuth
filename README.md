@@ -45,7 +45,7 @@ GoAuth is a high-performance backend authentication service built with Go. The s
 1. **Clone the Repository**
 
     ```bash
-    git clone https://github.com/yourusername/goauth.git
+    git clone https://github.com/Sabri-Simo/goAuth.git
     cd goauth
     ```
 
