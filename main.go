@@ -16,5 +16,4 @@ func main() {
 	r := gin.Default()
 	r.POST("/sing-up", controller.Singup)
 	r.GET("/login", controller.Login)
-	r.Run() // listen and serve on 0.0.0.0:8080
-}
+	r.Run() 
